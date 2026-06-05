@@ -1,4 +1,4 @@
-Estructura 
+Estructura <br>
 <img width="387" height="528" alt="image" src="https://github.com/user-attachments/assets/61e8adcd-8408-45d8-b820-8e3c9359d18f" />
 
 
