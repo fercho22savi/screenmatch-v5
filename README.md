@@ -4,8 +4,7 @@ Estructura <br>
 
 # 🌌 SWAPI Explorer GUI
 
-**SWAPI Explorer GUI** es una aplicación desarrollada en **Java Swing** que permite consultar información del universo de **Star Wars** usando la [Star Wars API (SWAPI)]<br>(https://swapi.dev/).  
-Cuenta con una interfaz moderna de estilo oscuro, búsqueda por categorías y renderizado en tiempo real de resultados JSON.
+SWAPI Explorer GUI es una aplicación desarrollada en Java Swing que permite consultar información del universo de Star Wars usando la Star Wars API (SWAPI). Este proyecto fue creado como un desafío práctico dentro del programa Oracle Next Education (ONE) en alianza con Alura Latam, con el fin de aplicar conocimientos avanzados en consumo de APIs REST y desarrollo de interfaces gráficas. Cuenta con una interfaz moderna de estilo oscuro, búsqueda por categorías y renderizado en tiempo real de resultados JSON.Para dejar tu perfil aún más completo, dime si te gustaría que redactemos:Una breve descripción para tu perfil de GitHub que resuma tu paso por el programa ONE de Oracle y Alura.Un mensaje listo para publicar este proyecto en LinkedIn y etiquetar a las academias.Una pequeña línea explicando cómo este proyecto evolucionó a partir del taller de ScreenMatch.
 
 ---
 
